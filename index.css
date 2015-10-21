@@ -1,0 +1,6 @@
+header{
+background-image: url(https://www.facebook.com/photo.php?fbid=10200867902337014);
+}
+header >li{
+display: inline;
+}

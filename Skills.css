@@ -1,0 +1,18 @@
+header{
+
+}
+
+#TSkills ul{
+border: solid #0FF;
+width: 325px;
+margin: 5px;
+float: right;
+}
+#Tskills li{
+display: block;
+}
+#TSkills dt{
+text-decoration: underline;
+padding: 5px;
+border: dashed;
+}
